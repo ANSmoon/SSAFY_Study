@@ -1,0 +1,13 @@
+
+Ž	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆó«K8°ý¸°Š2J$48758c52-0718-44a9-8c17-638e42adf233
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(““œ¾ùÿÿÿÿ8°ý¸°Š2J$079b69bb-78c6-45b3-abe7-d1185a389dc8
+”
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(““œ¾ùÿÿÿÿ8°ý¸°Š2J$68e2c26e-c802-4bc0-8768-4c5a4ff46325
+”
+java:S3008"LRename this field "X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(““œ¾ùÿÿÿÿ8°ý¸°Š2J$ac7bdb2b-6bf3-4bd7-831e-929b6a95d838
+É
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÄŽÃúÿÿÿÿ8°ý¸°Š2J$34f41526-7b5c-449c-a677-ed923e628159
+†
+java:S1659">Declare "M" and all following declarations on a separate line.(““œ¾ùÿÿÿÿ8¿ý¸°Š2J$2a0889d0-1254-40b6-9d70-3deacbf9d963
+l	java:S106""+Replace this use of System.out by a logger.(ü„ê!8¿ý¸°Š2J$3e718f15-323f-45e3-85d2-42a17a724c86

@@ -1,0 +1,14 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãš‘üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óíªúøÿÿÿÿ
+§
+java:S1598"‹This file "babyShark.java" should be located in "test1" directory, not in "C:\Users\SSAFY\Desktop\Project\Algorithm_Study\ANSMOON\2ì£¼ì°¨".(Óíªúøÿÿÿÿ
+[
+java:S1659"FDeclare "sharkSize" and all following declarations on a separate line.(ªÄØ
+@	java:S106A"+Replace this use of System.out by a logger.(‚ÓÈª
+m
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(òĞáşÿÿÿÿ
+9
+java:S1659Q"$Declare "minCol" on a separate line.(¾‡ÑD
+Y
+java:S1659U">Declare "y" and all following declarations on a separate line.(±šñÚüÿÿÿÿ
