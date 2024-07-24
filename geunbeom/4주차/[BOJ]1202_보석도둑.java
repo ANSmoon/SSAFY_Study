@@ -58,10 +58,6 @@ public class Main {
             while (!pq.isEmpty() && nowB >= pq.peek().w) {
                 pq2.offer(pq.poll().v);
             }
-//  근범오빠 정처기 화이팅
-//  근범오빠 취업 화이팅
-//  좋겠다 알고리즘 잘해서
-//  제 코데 대신 봐주세요...Please
             if (!pq2.isEmpty()) {
                 sum += pq2.poll();
             }
