@@ -1,0 +1,19 @@
+
+
+java:S25893"7Remove this expression which always evaluates to "true"(„ÏËÖþÿÿÿÿ8«Çù‹2J$016bfb9c-bd7b-4445-8e4e-767957cfad10
+
+java:S3008"LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÚÃ†8àˆÇù‹2J$40caf487-e93a-4217-a045-2579f7e31967
+
+java:S3008"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÚÃ†8àˆÇù‹2J$32a0eda4-e757-4be4-aa4c-c3a62a961435
+
+java:S3008"LRename this field "T" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÚÃ†8àˆÇù‹2J$3275e2ad-47d0-40ad-aba9-865643cb7e9e
+
+java:S1659">Declare "C" and all following declarations on a separate line.(²ÚÃ†8àˆÇù‹2J$fd44d2ee-cc98-40b1-b68b-202fdf092f09
+~	java:S125%"<This block of commented-out lines of code should be removed.(î´ñê8äˆÇù‹2J$c3ff75bb-6594-4627-b63f-f3eca8fdf82f
+ƒ	java:S1250"<This block of commented-out lines of code should be removed.(ÖÎÉ–ùÿÿÿÿ8åˆÇù‹2J$11b4ae02-70ed-4c5a-9add-f05c6acadef2
+ƒ	java:S125;"<This block of commented-out lines of code should be removed.(Ê½‚Åýÿÿÿÿ8åˆÇù‹2J$d21d1530-4520-4172-a536-4784f9b966ce
+ƒ	java:S125>"<This block of commented-out lines of code should be removed.(ƒ·‘™úÿÿÿÿ8åˆÇù‹2J$45aad937-4064-47c2-ab7c-695f8da1c70a
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(¸õ†ïüÿÿÿÿ8š«Çù‹2J$99dfad2d-fcb2-4e6f-ae31-48dbff0cc0df
+m	java:S106L"+Replace this use of System.out by a logger.( ìÿ´8æˆÇù‹2J$6414351b-28d1-46ba-9fd2-15840828e6f3
+•	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÔ·¬úÿÿÿÿ8æˆÇù‹2J$b573e927-eb4f-438b-82e7-02e7438097f3
+„	java:S125ƒ"<This block of commented-out lines of code should be removed.(š³ÅÖÿÿÿÿÿ8èˆÇù‹2J$4931dbd7-2454-4eaf-bd18-99b0f642b2f5
