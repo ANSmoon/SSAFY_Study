@@ -1,0 +1,17 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‡ñãÈ8ÂË½Ÿ2J$f49f304a-c58c-4ded-8e95-425d671566fd
+”
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÒç‚üÿÿÿÿ8Ü¦½Ÿ2J$ffde1570-df45-4043-aa20-74a156850e3f
+i
+java:S1659"!Declare "ans" on a separate line.(ûÒç‚üÿÿÿÿ8İ¦½Ÿ2J$2e91d518-1487-4990-9f3d-9046a37022ad
+l	java:S106&"+Replace this use of System.out by a logger.(ü„ê!8à¦½Ÿ2J$d34ba484-3ec3-40ea-bedf-70569230d70f
+•
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(¹¢øË8á¦½Ÿ2J$2910bed1-1e66-44dc-911d-004aabdebcb9
+‡
+java:S3358D"DExtract this nested ternary operation into an independent statement.(¦›¬ë8á¦½Ÿ2J$18a84c15-0de5-4905-8a15-be428e305fa1
+‡
+java:S3358E"DExtract this nested ternary operation into an independent statement.(÷¤ÿ°8á¦½Ÿ2J$24ade211-ec02-4cad-90d8-7652960b6416
+‡
+java:S3358]"DExtract this nested ternary operation into an independent statement.(¦›¬ë8â¦½Ÿ2J$87675789-2850-44ba-aa66-093d2aaf862c
+‡
+java:S3358^"DExtract this nested ternary operation into an independent statement.(÷¤ÿ°8â¦½Ÿ2J$44a05ca0-dc3f-4d80-bdca-24b11846ba6f

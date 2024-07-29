@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/1주차" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2주차" isTestSource="false" packagePrefix="test1" />
       <sourceFolder url="file://$MODULE_DIR$/3주차" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4주차" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5주차" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
