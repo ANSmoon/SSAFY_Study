@@ -1,0 +1,10 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(à¸…ğùÿÿÿÿ8‚µš¾2J$44e5aedb-1d08-40dd-8da0-b88310f98bb8
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹”ïıÿÿÿÿ8Â¸™¾2J$d2db21ca-ff99-403b-8884-e9067f34e562
+˜	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›§Çõıÿÿÿÿ8Â¸™¾2J$cd3f710f-b4fe-4892-9123-c02ff9c748ed
+˜	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÂŸÑüÿÿÿÿ8Â¸™¾2J$9e5452a7-d428-4bf6-a6e8-87d3941d1cad
+˜	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èšó”ıÿÿÿÿ8Â¸™¾2J$87637e02-cb4c-4c4d-9c23-67b7aba7ac08
+“	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‘ÿÉ8Â¸™¾2J$f8194048-0e63-44b7-9574-8a525e195db0
+a
+java:S1659"Declare "v" on a separate line.(ÃÓ€88Å¸™¾2J$8977d53c-fad0-4336-98a6-0da9bfe23485
+m	java:S106J"+Replace this use of System.out by a logger.(ô¤„å8É–Å¾2J$52ecb4d3-b55b-4340-b73d-4169afd00e5c
