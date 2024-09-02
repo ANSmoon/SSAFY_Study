@@ -21,3 +21,7 @@ A
 5주차/game.java,a\8\a84693b19520d58c62451e315282f4f0a6aeef30
 H
 5주차/gameAnother.java,a\f\afbf16fdb7eb15c57662fdb531b7c721ab837988
+G
+6주차/jewelTheif.java,c\a\ca744d80452f78ea65ff1dc73be6992f28b84d00
+D
+6주차/cabbage.java,a\f\afce1a8acab4eed0cc45cbcf327e9a0e4ec461e3

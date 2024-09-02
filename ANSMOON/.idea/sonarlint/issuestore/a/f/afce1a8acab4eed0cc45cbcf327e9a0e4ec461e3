@@ -1,11 +1,11 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´Âç‡8ßó½2J$cefb14f3-fa02-486f-bd7a-583bcb33f047
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´Âç‡8ßó½2J$464fdb11-e847-449c-a242-a51b420984dc
 
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­”°8ğ¨½2J$7da3493e-65cf-4483-a975-d129677eeea4
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­”°8ğ¨½2J$aadca32f-ec86-4ed1-8204-226e99c94bee
 
-java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­”°8ğ¨½2J$954fc7f9-5aae-4806-bbbe-31ced7766ce0
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­”°8ğ¨½2J$51ea410f-f250-49dd-8a04-d6bb088e104b
 
-java:S3008"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­”°8ğ¨½2J$d3bab71d-cc31-4900-a757-f9d8730bd831
+java:S3008"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­”°8ğ¨½2J$f9a65e07-7009-4605-a2f5-d64adc248ab2
 
-java:S1659">Declare "M" and all following declarations on a separate line.(­”°8ğ¨½2J$359d9dd5-1b2e-4e10-8c8a-5c9ea42415a0
-r	java:S1069"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ø¨½2J$e53dcb91-7594-4467-a5f6-20d1ca1d53e1
+java:S1659">Declare "M" and all following declarations on a separate line.(­”°8ğ¨½2J$3d44fd27-1e1b-46b4-8fe2-bf2a8d81ecbb
+r	java:S1069"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ø¨½2J$e44878a0-2633-4639-a9f8-117a6e8875a8
