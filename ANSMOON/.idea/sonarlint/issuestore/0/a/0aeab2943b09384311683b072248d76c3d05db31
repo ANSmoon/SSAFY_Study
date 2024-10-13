@@ -1,8 +1,0 @@
-
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ´ëÿÿÿÿÿ8àÆÑ¯Š2J$46488972-0883-4cc4-8c04-04ec80ad00c1
-”
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8´¢Ñ¯Š2J$a9b2cb89-93e2-49b1-977b-39447df42c64
-l	java:S106&"+Replace this use of System.out by a logger.(ü„ê!8Ã¢Ñ¯Š2J$a993a401-dea8-4b76-a647-8d7dad9b7837
-•
-java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(íú‰Ä8Ã¢Ñ¯Š2J$0acd311e-5ff4-45bb-ae8e-72e77a98bc69
-i	java:S1312""Add a default case to this switch.(Æóõµıÿÿÿÿ8Ã¢Ñ¯Š2J$7eefc140-15d8-4b5d-9800-c6f3c6321237

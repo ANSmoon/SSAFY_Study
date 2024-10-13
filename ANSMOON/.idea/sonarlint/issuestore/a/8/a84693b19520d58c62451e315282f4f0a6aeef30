@@ -1,12 +1,0 @@
-
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óİ™şÿÿÿÿ8êàÖ2J$8f3db6b1-cdd4-4792-ae48-f5b27adc1066
-
-java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ë8ìàÖ2J$89c11fd5-e8cc-4944-90b2-23c884440c31
-‚
-java:S1659"@Declare "sum" and all following declarations on a separate line.(”Ë8ìàÖ2J$a979f9f1-b9c9-4ce6-8ed5-512f62fd4ba7
-l	java:S106("+Replace this use of System.out by a logger.(ü„ê!8’•²Ÿ2J$0c9912a1-dfc7-4c1c-b492-130ecd629b6b
-š
-java:S37760"RRefactor this method to reduce its Cognitive Complexity from 90 to the 15 allowed.(àÂæ§ùÿÿÿÿ8ïàÖ2J$2f0380c1-7c85-459a-a2cf-9538d11489b4
-c	java:S131E""Add a default case to this switch.(ìúÇV8ğàÖ2J$089f3236-d77d-4b16-a4d3-a0b9cf5362ae
-
-java:S65410"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 99 to 64, Complexity from 27 to 14, Nesting Level from 6 to 2, Number of Variables from 14 to 6.(àÂæ§ùÿÿÿÿ8Ü¯Ù2J$bff0edd0-b311-402a-9a74-5562c1cdd3b1
