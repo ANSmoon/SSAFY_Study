@@ -1,14 +1,0 @@
-
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãš‘üÿÿÿÿJ$759fcfaa-69c8-4ae8-9d01-7ae94e8a8c61
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓíªúøÿÿÿÿJ$2c91281d-bc05-471c-be62-cea78ac4a2e0
-Í
-java:S1598"‹This file "babyShark.java" should be located in "test1" directory, not in "C:\Users\SSAFY\Desktop\Project\Algorithm_Study\ANSMOON\2ì£¼ì°¨".(ÓíªúøÿÿÿÿJ$ac46d10e-1e5f-4846-9dfc-90013d197bfb
-
-java:S1659"FDeclare "sharkSize" and all following declarations on a separate line.(ªÄØJ$cffbbfe0-9664-423a-ba00-bab11fe22cf8
-f	java:S106A"+Replace this use of System.out by a logger.(‚ÓÈªJ$9804f8e5-e489-4d4e-89e5-d718d8119ea6
-“
-java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(òĞáşÿÿÿÿJ$539c0f23-1867-49e8-a8d5-5fafc4a5dc5b
-_
-java:S1659Q"$Declare "minCol" on a separate line.(¾‡ÑDJ$581aa6f9-85af-4328-a1eb-d0fdcc67f0f1
-
-java:S1659U">Declare "y" and all following declarations on a separate line.(±šñÚüÿÿÿÿJ$5bc91be6-1682-489c-a06d-bef92db783c1
